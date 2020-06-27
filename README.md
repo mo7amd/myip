@@ -28,7 +28,9 @@ so if you want the Geolocation part to work please do the following:
 
 
 otherwise just ignore that part.
-<hr>
+
+- - -
+
 ## Installation
 - clone the repo
 ```
