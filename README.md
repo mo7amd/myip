@@ -18,7 +18,7 @@
 </div>
   <hr>
 
-## Dependencies
+## Optional Dependency
 
 the tool not only get the IP address it also get geolocation info of your IP address using [ipify](https://geo.ipify.org/). they have a nice free plan of 1000 request per month which is nice for personal use.
 so if you want the Geolocation part to work please do the following:
