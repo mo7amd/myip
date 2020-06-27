@@ -30,8 +30,20 @@ so if you want the Geolocation part to work please do the following:
 otherwise just ignore that part.
 
 - - -
+## Download and Install (Unix systems)
+- Download Bin from [here]()
+- copy or link it to your bin to use it as a program
+copy
+```
+cp main /usr/local/bin/myip
+```
+link
+```
+ln -s $PWD/main /usr/local/bin/myip
+```
+- - -
 
-## Installation
+## Build the project yourself
 - clone the repo
 ```
 git clone git@github.com:mo7amd/myip.git
