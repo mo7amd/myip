@@ -44,8 +44,8 @@ func checkIPStatus(IP string) {
 			check(err)
 		}
 	}
+	clipboard.WriteAll(IP + "/32")
 	if hasChanged {
-		clipboard.WriteAll(IP + "/32")
 		fmt.Println("IP has changed and copied Successfully to Clipboard")
 	} else {
 		fmt.Println("IP hasn't changed since last time!!!")
